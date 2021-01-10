@@ -1,4 +1,4 @@
-Francia = "Francia price:$2.000.000 passangers:5"
+Francia = "Francia price:$2.000.000 passangers:2"
 
 Francia = 2000000 * 5
 
